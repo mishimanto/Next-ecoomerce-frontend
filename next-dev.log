@@ -621,3 +621,11 @@ Creating turbopack project { dir: 'C:\\Herd\\nextjs-ecommerce-template-main', te
 ✓ Compiled in 1098ms
  GET /?herd=preview 200 in 1061ms (next.js: 581ms, application-code: 480ms)
  GET / 200 in 1043ms (next.js: 701ms, application-code: 342ms)
+✓ Compiled in 970ms
+ GET /?herd=preview 200 in 517ms (next.js: 285ms, application-code: 231ms)
+ GET / 200 in 310ms (next.js: 14ms, application-code: 296ms)
+✓ Compiled in 1231ms
+ GET / 200 in 903ms (next.js: 513ms, application-code: 391ms)
+ GET /?herd=preview 200 in 911ms (next.js: 691ms, application-code: 220ms)
+ GET /shop 200 in 325ms (next.js: 87ms, application-code: 238ms)
+ GET /shop 200 in 226ms (next.js: 17ms, application-code: 210ms)
