@@ -208,6 +208,16 @@ function normalizeBackendImage(src?: string | null) {
   }
 
   if (src.startsWith("http://") || src.startsWith("https://")) {
+    try {
+      const imageUrl = new URL(src);
+
+      if (imageUrl.pathname.startsWith("/storage/")) {
+        return `${apiOrigin()}${imageUrl.pathname}${imageUrl.search}`;
+      }
+    } catch {
+      return "";
+    }
+
     return src;
   }
 
