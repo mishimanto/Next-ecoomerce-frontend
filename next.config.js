@@ -27,6 +27,11 @@ const nextConfig = {
       },
       {
         protocol: "https",
+        hostname: "api.omegastore.shimzo.online",
+        pathname: "/storage/**",
+      },
+      {
+        protocol: "https",
         hostname: "cdn.brandfetch.io",
         pathname: "/**",
       },
