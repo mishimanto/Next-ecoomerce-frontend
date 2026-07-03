@@ -1,0 +1,281 @@
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/promo/promo-01.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/categories/categories-04.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-1-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-2-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-3-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-4-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-5-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-6-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-8-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-7-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/promo/promo-01.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/categories/categories-04.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-1-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-4-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-2-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-5-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-3-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-6-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-7-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-8-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-01.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-02.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-03.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-04.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-04.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-03.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-02.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-01.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/blog/blog-01.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/blog/blog-02.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/blog/blog-03.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[browser] Uncaught ReferenceError: formatBadgeCount is not defined
+    at Header (src/components/Header/index.tsx:50:21)
+    at Set.forEach (<anonymous>)
+    at ClientShell (src/app/(site)/client-shell.tsx:22:25)
+    at StorefrontLayout (src\app\(site)\(storefront)\layout.tsx:8:10)
+  48 |   const cartCount = product.reduce((total, item) => total + item.quantity, 0);
+  49 |   const wishlistCount = wishlistItems.length;
+> 50 |   const cartBadge = formatBadgeCount(cartCount);
+     |                     ^
+  51 |   const wishlistBadge = formatBadgeCount(wishlistCount);
+  52 |   const normalizedSearchQuery = debouncedSearchQuery.trim();
+  53 |   const { data: searchPage, isFetching: searchLoading } = useQuery({
+[browser] Uncaught ReferenceError: formatBadgeCount is not defined
+    at Header (src/components/Header/index.tsx:50:21)
+    at ClientShell (src/app/(site)/client-shell.tsx:22:25)
+    at StorefrontLayout (src\app\(site)\(storefront)\layout.tsx:8:10)
+  48 |   const cartCount = product.reduce((total, item) => total + item.quantity, 0);
+  49 |   const wishlistCount = wishlistItems.length;
+> 50 |   const cartBadge = formatBadgeCount(cartCount);
+     |                     ^
+  51 |   const wishlistBadge = formatBadgeCount(wishlistCount);
+  52 |   const normalizedSearchQuery = debouncedSearchQuery.trim();
+  53 |   const { data: searchPage, isFetching: searchLoading } = useQuery({
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-02.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-01.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-04.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-03.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/promo/promo-01.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-01.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-02.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-03.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-04.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/categories/categories-04.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-1-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-3-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-4-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-2-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-5-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-6-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-8-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-7-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/blog/blog-01.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/blog/blog-02.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/blog/blog-03.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/products/product-1-bg-1.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[browser] Image with src "/images/products/product-5-bg-1.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+⨯ The requested resource isn't a valid image for https://cdn.brandfetch.io/id_4D40okd/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B received null
+⨯ The requested resource isn't a valid image for https://cdn.brandfetch.io/idPKXOsXfF/w/512/h/512/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B received null
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+⨯ The requested resource isn't a valid image for https://cdn.brandfetch.io/idPKXOsXfF/w/512/h/512/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B received null
+⨯ The requested resource isn't a valid image for https://cdn.brandfetch.io/id_4D40okd/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B received null
+[browser] Uncaught ReferenceError: auto is not defined
+    at Header (src/components/Header/index.tsx:186:24)
+    at ClientShell (src/components/Common/ScrollToTop.tsx:20:22)
+    at StorefrontLayout (src\app\(site)\(storefront)\layout.tsx:8:10)
+  184 |                 src={siteSettings.logo || "/images/logo/logo.svg"}
+  185 |                 alt={siteSettings.project_name || "Logo"}
+> 186 |                 width={auto}
+      |                        ^
+  187 |                 height={24}
+  188 |                 unoptimized
+  189 |                 className="max-w-[116px] sm:max-w-[136px] xl:max-w-[150px]"
+[browser] Uncaught ReferenceError: auto is not defined
+    at Header (src/components/Header/index.tsx:186:24)
+    at ClientShell (src/app/(site)/client-shell.tsx:59:19)
+    at StorefrontLayout (src\app\(site)\(storefront)\layout.tsx:8:10)
+  184 |                 src={siteSettings.logo || "/images/logo/logo.svg"}
+  185 |                 alt={siteSettings.project_name || "Logo"}
+> 186 |                 width={auto}
+      |                        ^
+  187 |                 height={24}
+  188 |                 unoptimized
+  189 |                 className="max-w-[116px] sm:max-w-[136px] xl:max-w-[150px]"
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-01.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-02.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-03.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-04.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+⨯ The requested resource isn't a valid image for https://cdn.brandfetch.io/id_4D40okd/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B received null
+⨯ The requested resource isn't a valid image for https://cdn.brandfetch.io/idPKXOsXfF/w/512/h/512/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B received null
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/products/product-1-bg-1.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/logo/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+⨯ The requested resource isn't a valid image for https://cdn.brandfetch.io/idPKXOsXfF/w/512/h/512/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B received null
+⨯ The requested resource isn't a valid image for https://cdn.brandfetch.io/id_4D40okd/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B received null
+[browser] Uncaught Error: Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" is missing required "width" property.
+    at Header (src/components/Header/index.tsx:186:15)
+    at ClientShell (src/app/(site)/client-shell.tsx:59:26)
+    at StorefrontLayout (src\app\(site)\(storefront)\layout.tsx:8:10)
+  184 |               href="/"
+  185 |             >
+> 186 |               <Image
+      |               ^
+  187 |                 src={siteSettings.logo || "/images/logo/logo.svg"}
+  188 |                 alt={siteSettings.project_name || "Logo"}
+  189 |                 
+[browser] Uncaught Error: Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" is missing required "width" property.
+    at Header (src/components/Header/index.tsx:186:15)
+    at ClientShell (src/app/(site)/client-shell.tsx:59:26)
+    at StorefrontLayout (src\app\(site)\(storefront)\layout.tsx:8:10)
+  184 |               href="/"
+  185 |             >
+> 186 |               <Image
+      |               ^
+  187 |                 src={siteSettings.logo || "/images/logo/logo.svg"}
+  188 |                 alt={siteSettings.project_name || "Logo"}
+  189 |                 
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-02.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-01.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-04.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-03.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Uncaught ReferenceError: auto is not defined
+    at Header (src/components/Header/index.tsx:189:24)
+    at ClientShell (src/app/(site)/client-shell.tsx:59:19)
+    at StorefrontLayout (src\app\(site)\(storefront)\layout.tsx:8:10)
+  187 |                 src={siteSettings.logo || "/images/logo/logo.svg"}
+  188 |                 alt={siteSettings.project_name || "Logo"}
+> 189 |                 width={auto}
+      |                        ^
+  190 |                 height={40}
+  191 |                 unoptimized
+  192 |                 className="h-8 w-[145px] object-contain xl:h-9 xl:w-[160px]"
+[browser] Uncaught ReferenceError: auto is not defined
+    at Header (src/components/Header/index.tsx:189:24)
+    at ClientShell (src/app/(site)/client-shell.tsx:59:19)
+    at StorefrontLayout (src\app\(site)\(storefront)\layout.tsx:8:10)
+  187 |                 src={siteSettings.logo || "/images/logo/logo.svg"}
+  188 |                 alt={siteSettings.project_name || "Logo"}
+> 189 |                 width={auto}
+      |                        ^
+  190 |                 height={40}
+  191 |                 unoptimized
+  192 |                 className="h-8 w-[145px] object-contain xl:h-9 xl:w-[160px]"
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-02.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-01.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-03.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-04.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/logo/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+⨯ The requested resource isn't a valid image for https://cdn.brandfetch.io/idPKXOsXfF/w/512/h/512/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B received null
+⨯ The requested resource isn't a valid image for https://cdn.brandfetch.io/id_4D40okd/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B received null
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/logo/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/logo/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+⨯ The requested resource isn't a valid image for https://cdn.brandfetch.io/id_4D40okd/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B received null
+⨯ The requested resource isn't a valid image for https://cdn.brandfetch.io/idPKXOsXfF/w/512/h/512/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B received null
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-01.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-02.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-04.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-03.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/categories/categories-04.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/promo/promo-01.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-5-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/promo/promo-01.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-02.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-01.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-03.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-04.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/categories/categories-04.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-5-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-1-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-2-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-3-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-4-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-7-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-8-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-6-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Uncaught Error: Internal Next.js error: Router action dispatched before initialization.
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-01.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-03.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-5-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/categories/categories-04.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-02.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-04.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-2-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-1-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-4-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-3-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/promo/promo-01.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-7-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-8-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-6-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+[browser] Image with src "http://next-commerce-backend.test/storage/settings/AThCk3lN0SbX7EeAccDpYdPpGfDYsLjHrSijjxxH.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/promo/promo-01.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-02.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-01.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "/images/categories/categories-04.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-03.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/icons/icon-04.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-3-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-5-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-4-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-2-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-6-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[browser] Image with src "http://nextjs-ecommerce-template-main.test/images/products/product-7-bg-1.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
